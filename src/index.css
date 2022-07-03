@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.rounded-circle {
+  max-width: 50px !important;
+  height: 50px !important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(209, 198, 198);
+  cursor: pointer;
+}
+
+input {
+  width: 200px !important;
+}
+
+select {
+  width: 200px !important;
+  cursor: pointer;
+}
